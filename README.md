@@ -48,7 +48,7 @@
 
 <p align="center">
     <a href="https://github.com/Bateyjosue/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bagalwa Ibrahim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBagalwa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Batey Josh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bateyjosue&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -69,12 +69,15 @@
 ## Connect with me:
 <p align="left">
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ibrahim_Bagalwa) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/IbrahimBagalwa) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:bagmurhulaibrahim@gmail.com) [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](#) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](#) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](#)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/JosueBatey) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/josue-ishara) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:joshishara.dev@gmail.com) 
+<!--   [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](#) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](#) 
+  [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#)  -->
+  [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](#)
 ___
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/IbrahimBagalwa/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=IbrahimBagalwa">
+<a href="https://github.com/Bateyjosue/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Bateyjosue">
 </a>
-<a href="https://github.com/IbrahimBagalwa?tab=followers"><img src="https://img.shields.io/github/followers/IbrahimBagalwa?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Bateyjosue?tab=followers"><img src="https://img.shields.io/github/followers/<bateyjosue?label=Followers&style=social" alt="GitHub Badge"></a>
