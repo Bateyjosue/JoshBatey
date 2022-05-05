@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **josuebatey19@gmail.com**
 
-- ⚡ Fun fact **I play games.**
+- ⚡ Fun fact **I Danse Pretty good, HipHop.**
 
 ## 🚀 Languages and Tools:
  
@@ -38,21 +38,23 @@
     <a href="https://trello.com/en" class="trello" target="_blank"> <img src="https://img.icons8.com/color/48/000000/trello.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
+    <a href="https://www.learn-c.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="c" width="48" height="48"/> </a> 
 </p>
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Python Badge](https://img.shields.io/badge/-Django-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)  [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Python Badge](https://img.shields.io/badge/-Django-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+<!-- [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)   -->
+<!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
-    <a href="https://github.com/IbrahimBagalwa/github-readme-streak-stats">
+    <a href="https://github.com/Bateyjosue/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bagalwa Ibrahim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBagalwa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimBagalwa&show_icons=true&theme=dark&hide_title=true)](https://github.com/IbrahimBagalwa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimBagalwa&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/IbrahimBagalwa)|![IbrahimBagalwa](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBagalwa&theme=dark)
+|[![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bateyjosue&show_icons=true&theme=dark&hide_title=true)](https://github.com/Bateyjosue)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bateyjosue&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Bateyjosue)|![Bateyjosue](https://github-readme-streak-stats.herokuapp.com/?user=Bateyjosue&theme=dark)
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -60,7 +62,7 @@
 <br/>
 <br/>
 
-[![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=IbrahimBagalwa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/IbrahimBagalwa/github-readme-activity-graph)
+[![Batey Josh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bateyjosue&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/Bateyjosue/github-readme-activity-graph)
 <br/>
 <br/>
 
