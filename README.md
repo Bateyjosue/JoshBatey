@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ibrahim Bagalwa</h1>
-<h3 align="center">I am a Full-Stack Software Engineer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Josh Batey</h1>
+<h3 align="center">I am a Software Engineer</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
-- 📫 How to reach me **bagmurhulaibrahim@gmail.com**
+- 📫 How to reach me **josuebatey19@gmail.com**
 
 - ⚡ Fun fact **I play games.**
 
