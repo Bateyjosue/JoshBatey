@@ -33,7 +33,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
-    <a href="https://www.sqlite.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://www.sqlite.org" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgbin.com%2Fpng%2F6u3XjV3R%2Fsqlite-database-android-mysql-png&psig=AOvVaw3Zy0E5gYtGD6By_XDVEFaH&ust=1651827250433000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICcja3-x_cCFQAAAAAdAAAAABAD" alt="mongodb" width="48" height="48"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
